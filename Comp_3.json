@@ -1,0 +1,14 @@
+
+{
+  "component3": {
+    "introText": {
+      "heading": "Aliquam mauris vitae",
+      "paragraph": "Consequat risus eget eros pharetra elementum vivamus non enim nisl cras bibendum purus sagittis dui tincidunt suscipit proin",
+      "buttonText": "efficitur justo nulla",
+
+      "heading_meta": "20",
+      "paragraph_meta": "124",
+      "buttonText_meta": "21"
+    }
+  }
+}

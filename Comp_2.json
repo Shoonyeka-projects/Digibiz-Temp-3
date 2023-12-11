@@ -1,0 +1,81 @@
+
+{
+  "navigation": {
+    "items": [
+      {
+        "label": "Home",
+        "to": "/"
+      },
+      {
+        "label": "Pages",
+        "to": "",
+        "subItems": [
+          {
+            "label": "Gallery",
+            "to": "/pages/gallery"
+          },
+          {
+            "label": "Full Width",
+            "to": "/pages/full-width.html"
+          },
+          {
+            "label": "Sidebar Left",
+            "to": "/pages/sidebar-left.html"
+          },
+          {
+            "label": "Sidebar Right",
+            "to": "/pages/sidebar-right.html"
+          },
+          {
+            "label": "Basic Grid",
+            "to": "/pages/basic-grid.html"
+          }
+        ]
+      },
+      {
+        "label": "Dropdown",
+        "to": "/dropdown",
+        "subItems": [
+          {
+            "label": "Level 2",
+            "to": "#"
+          },
+          {
+            "label": "Level 2 + Drop",
+            "to": "/dropdown/level2",
+            "subItems": [
+              {
+                "label": "Level 3",
+                "to": "#"
+              },
+              {
+                "label": "Level 3",
+                "to": "#"
+              },
+              {
+                "label": "Level 3",
+                "to": "#"
+              }
+            ]
+          },
+          {
+            "label": "Level 2",
+            "to": "#"
+          }
+        ]
+      },
+      {
+        "label": "Link Text",
+        "to": "./pages/LinkText"
+      },
+      {
+        "label": "Sample Text",
+        "to": "./pages/SampleText"
+      },
+      {
+        "label": "Long Link Text",
+        "to": "./pages/LongLinkText"
+      }
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+
+{
+  "sections": [
+    {
+      "heading": "Pharetra morbi molestie ante quam",
+      "content": "consectetur lobortis sed semper fringilla molestie integer egestas nisl in ante feugiat morbi suscipit maximus arcu at facilisis nulla tincidunt odio at&hellip;",
+
+      "heading_meta": "33",
+      "content_meta": "160"
+    },
+    {
+      "heading": "Nulla faucibus lectus ut nisl tincidunt",
+      "content": "Gravida aliquet sapien est scelerisque risus id accumsan nibh leo sit amet neque fusce placerat tristique&hellip;",
+      "imageSrc": "images/demo/320x220.png",
+      "readMoreLink": "#",
+
+      "heading_meta": "33",
+      "content_meta": "160"
+    },
+    {
+      "heading": "Imperdiet eros dictum arcu auctor",
+      "content": "Nunc congue pharetra ipsum et feugiat donec ipsum mauris ullamcorper non aliquet sit amet cursus sed&hellip;",
+      "imageSrc": "images/demo/320x220.png",
+      "readMoreLink": "#",
+
+      "heading_meta": "33",
+      "content_meta": "160"
+    },
+    {
+      "heading": "Ullamcorper laoreet vel sollicitudin",
+      "content": "Mi aenean ultricies eros non laoreet scelerisque diam est vehicula orci quis tincidunt ligula diam urna&hellip;",
+      "imageSrc": "images/demo/320x220.png",
+      "readMoreLink": "#",
+
+      "heading_meta": "33",
+      "content_meta": "160"
+    }
+  ],
+  "mainArticle": {
+    "heading": "Rutrum nulla sed eu sodales",
+    "content": "Scelerisque sed ornare lacus in mollis sagittis quam purus porta nisl vel tristique leo mauris a erat curabitur vitae tellus venenatis fringilla nunc in vestibulum quam ut scelerisque scelerisque odio pretium sodales mauris consectetur sit amet fusce sit amet.",
+
+    "heading_meta": "33",
+    "content_meta": "260"
+  },
+  "asideList": [
+    {
+      "icon": "fa-home",
+      "text": "Vel ultricies leo fermentum aenean"
+    },
+    {
+      "icon": "fa-book",
+      "text": "Dignissim felis nec volutpat maecenas"
+    },
+    {
+      "icon": "fa-pencil",
+      "text": "Sagittis arcu a rutrum laoreet lacus"
+    },
+    {
+      "icon": "fa-cog",
+      "text": "Velit elementum nisi sit amet gravida"
+    }
+  ]
+}

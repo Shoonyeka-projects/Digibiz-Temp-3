@@ -1,0 +1,55 @@
+
+{
+  "component5": {
+    "sectionTitle": "Egestas vitae urna a imperdiet",
+    "sectionDescription": "Feugiat leo lobortis augue vivamus dignissim leo at purus interdum posuere praesent tortor",
+
+    "sectionTitle_meta": "30",
+    "sectionDescription_meta": "90",
+    "items": [
+      {
+        "imageSrc": "images/demo/320x220.png",
+        "figcaption": "Odio quisque blandit",
+        "articleHeading": "Est eu sagittis tellus nullam aliquet",
+        "articleContent": "Donec lobortis sapien tortor rhoncus quam porttitor ut suscipit dignissim...",
+
+        "figcaption_meta": "20",
+        "articleHeading_meta": "37",
+        "articleContent_meta": "76"
+      },
+      {
+        "imageSrc": "images/demo/320x220.png",
+        "figcaption": "Maximus tempor aptent",
+        "articleHeading": "Taciti sociosqu ad litora torquent",
+        "articleContent": "Maximus urna varius eget nulla sapien nisl hendrerit sed dolor sed porta tempor...",
+
+        "figcaption_meta": "21",
+        "articleHeading_meta": "34",
+        "articleContent_meta": "82"
+      },
+      {
+        "imageSrc": "images/demo/320x220.png",
+        "figcaption": "Ornare malesuada",
+        "articleHeading": "Odio at iaculis libero suspendisse",
+        "articleContent": "Nulla viverra semper eros ac auctor elementum quisque ac luctus quam fusce...",
+
+        "figcaption_meta": "16",
+        "articleHeading_meta": "34",
+        "articleContent_meta": "77"
+      },
+      {
+        "imageSrc": "images/demo/320x220.png",
+        "figcaption": "Per inceptos himenaeos",
+        "articleHeading": "Nulla efficitur erat sit amet mi aliquam",
+        "articleContent": "Risus vitae luctus pulvinar enim nam facilisis molestie nunc ullamcorper bibendum...",
+
+        "figcaption_meta": "22",
+        "articleHeading_meta": "40",
+        "articleContent_meta": "84"
+      }
+    ],
+    "buttonText": "Per conubia nostra",
+
+    "buttonText_meta": "18"
+  }
+}
